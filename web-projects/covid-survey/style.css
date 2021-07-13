@@ -1,0 +1,104 @@
+body {
+    background-size: 100% 100%;
+    background-image: url(https://get.wallhere.com/photo/illustration-dark-spiral-blue-underwater-lines-DNA-biology-light-figure-wave-screenshot-computer-wallpaper-macro-photography-696319.jpg);
+  }
+  #title {
+    text-align: center;
+    color: white;
+  }
+  #description {
+    text-align: center;
+    color: white;
+  }
+  #survey-form {
+    opacity: 85%;
+    display: block;
+    width: 40%;
+    margin: auto;
+    background-color: black;
+    color: white;
+    padding: 30px 40px 30px 40px;
+  }
+  input[type="text"] {
+    font-size: medium;
+    width: 100%;
+    padding: 7px 10px;
+    margin: 4px 0;
+    box-sizing: border-box;
+    border-radius: 4px;
+  }
+  input[type="email"] {
+    font-size: medium;
+    width: 100%;
+    padding: 7px 10px;
+    margin: 4px 0;
+    box-sizing: border-box;
+    border-radius: 4px;
+  }
+  input[type="number"] {
+    font-size: medium;
+    width: 100%;
+    padding: 7px 10px;
+    margin: 4px 0;
+    box-sizing: border-box;
+    border-radius: 4px;
+  }
+  #name {
+    width: 100%;
+  }
+  #email {
+    width: 100%;
+  }
+  #number {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+  #name-label {
+    display: block;
+    margin-top: 20px;
+  }
+  #email-label {
+    display: block;
+    margin-top: 20px;
+  }
+  #number-label {
+    display: block;
+    margin-top: 20px;
+  }
+  #dropdown {
+    display: block;
+    width: 100%;
+    margin-top: 4px;
+    font-size: medium;
+    width: 100%;
+    padding: 10px 10px;
+    box-sizing: border-box;
+    border-radius: 4px;
+  }
+  #submit {
+    display: block;
+    width: 100%;
+    height: auto;
+    margin: 15px 0;
+    background-color: green;
+    color: white;
+    font-size: medium;
+    padding: 7px 10px;
+    box-sizing: border-box;
+    border-radius: 4px;
+  }
+  textarea {
+    display: block;
+    height: 10%;
+    width: 100%;
+    resize: none;
+  }
+  #checkboxes {
+    margin-bottom: 15px;
+  }
+  
+  .radio {
+    margin-bottom: 15px;
+  }
+  
+  

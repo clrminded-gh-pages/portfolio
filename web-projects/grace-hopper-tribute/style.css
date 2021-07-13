@@ -1,0 +1,44 @@
+#main {
+    background-color: silver;
+  }
+  
+  #title {
+    text-align: center;
+  }
+  
+  #img-div {
+    height: 350px;
+    width: 550px;
+    margin: auto;
+    background-color: white;
+  }
+  
+  #image {
+    display: block;
+    padding: 10px 5px 10px 15px;
+    max-width: 95%;
+    height: auto;
+  }
+  
+  #img-caption {
+    font-style: italic;
+    font-size: small;
+    text-align: center;
+  }
+  
+  #tribute-info {
+    margin: auto;
+    text-align: justify;
+    width: 550px;
+  }
+  
+  .footer {
+    text-align: center;
+    font-weight: bold;
+  }
+  #tribute-link {
+    text-align: center;
+    font-weight: bold;
+  }
+  
+  
